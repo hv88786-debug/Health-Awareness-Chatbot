@@ -1,0 +1,200 @@
+{
+  "fever": {
+    "title": "Fever Awareness",
+    "severity": "moderate",
+    "riskScore": 5,
+    "symptomKeywords": ["fever", "temperature", "chills", "sweating", "hot", "burning"],
+    "symptoms": "High body temperature, chills, sweating, weakness, headache, body ache.",
+    "prevention": "Maintain good hygiene, drink plenty of fluids, get adequate rest, and avoid close contact with infected individuals.",
+    "when_to_seek_help": "If fever crosses 102°F, lasts more than 3 days, or is accompanied by severe weakness, breathing difficulty, or confusion.",
+    "advice": "Monitor your temperature regularly, stay hydrated, and rest. Consult a healthcare professional if symptoms worsen or persist.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "cold": {
+    "title": "Common Cold Awareness",
+    "severity": "mild",
+    "riskScore": 2,
+    "symptomKeywords": ["cold", "runny nose", "blocked nose", "sneezing", "watery eyes", "stuffy"],
+    "symptoms": "Runny or blocked nose, sneezing, mild sore throat, watery eyes, mild fatigue.",
+    "prevention": "Wash hands frequently, avoid touching the face, stay warm, and maintain a healthy diet to support immunity.",
+    "when_to_seek_help": "If symptoms last more than 10 days or are accompanied by high fever or breathing difficulty.",
+    "advice": "Rest well, drink warm fluids, and allow the body time to recover naturally.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "cough": {
+    "title": "Cough Awareness",
+    "severity": "mild",
+    "riskScore": 3,
+    "symptomKeywords": ["cough", "coughing", "throat irritation", "chest discomfort", "dry cough", "wet cough"],
+    "symptoms": "Dry or wet cough, throat irritation, occasional chest discomfort.",
+    "prevention": "Avoid smoke and dust exposure, stay hydrated, and maintain good respiratory hygiene by covering the mouth while coughing.",
+    "when_to_seek_help": "If cough persists beyond two weeks, produces blood, or is accompanied by chest pain or breathlessness.",
+    "advice": "Use warm fluids and steam inhalation for comfort. Seek medical evaluation if the cough does not improve.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "headache": {
+    "title": "Headache Awareness",
+    "severity": "mild",
+    "riskScore": 3,
+    "symptomKeywords": ["headache", "head pain", "migraine", "head pressure", "light sensitivity", "nausea"],
+    "symptoms": "Pain or pressure in the head, sensitivity to light or sound, mild nausea.",
+    "prevention": "Stay hydrated, maintain regular sleep, reduce screen strain, and manage stress levels.",
+    "when_to_seek_help": "If headache is sudden and severe, follows an injury, or comes with vision changes, vomiting, or confusion.",
+    "advice": "Rest in a quiet, dark space and avoid excessive screen exposure. Consult a doctor for frequent or severe headaches.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "sore throat": {
+    "title": "Sore Throat Awareness",
+    "severity": "mild",
+    "riskScore": 2,
+    "symptomKeywords": ["sore throat", "throat pain", "scratchy throat", "difficulty swallowing", "throat swelling"],
+    "symptoms": "Throat pain, scratchiness, difficulty swallowing, mild swelling.",
+    "prevention": "Avoid cold drinks, maintain hydration, and practice good oral hygiene.",
+    "when_to_seek_help": "If pain is severe, lasts more than a week, or is accompanied by high fever or difficulty breathing.",
+    "advice": "Gargle with warm salt water and stay hydrated. Seek medical advice if symptoms do not improve.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "dehydration": {
+    "title": "Dehydration Awareness",
+    "severity": "moderate",
+    "riskScore": 5,
+    "symptomKeywords": ["dehydration", "dry mouth", "dizziness", "dark urine", "thirst", "fatigue", "weakness"],
+    "symptoms": "Dry mouth, dizziness, fatigue, reduced urination, dark-colored urine.",
+    "prevention": "Drink water regularly, especially in hot weather or during illness, and consume fluids with electrolytes when needed.",
+    "when_to_seek_help": "If there is severe dizziness, fainting, very low urination, or rapid heartbeat.",
+    "advice": "Increase fluid intake gradually and rest in a cool environment. Seek medical attention if symptoms are severe.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "diarrhea": {
+    "title": "Diarrhea Awareness",
+    "severity": "moderate",
+    "riskScore": 5,
+    "symptomKeywords": ["diarrhea", "loose stools", "watery stools", "stomach cramps", "abdominal pain", "urgency"],
+    "symptoms": "Frequent loose or watery stools, abdominal cramps, urgency.",
+    "prevention": "Maintain food and water hygiene, wash hands before eating, and avoid contaminated food or water sources.",
+    "when_to_seek_help": "If diarrhea persists more than 2 days, contains blood, or is accompanied by signs of dehydration.",
+    "advice": "Stay hydrated with oral fluids and rest. Consult a doctor if symptoms worsen or persist.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "vomiting": {
+    "title": "Vomiting Awareness",
+    "severity": "moderate",
+    "riskScore": 5,
+    "symptomKeywords": ["vomiting", "nausea", "throwing up", "stomach discomfort", "weakness", "retching"],
+    "symptoms": "Nausea, repeated vomiting, stomach discomfort, weakness.",
+    "prevention": "Avoid spoiled or contaminated food, eat smaller meals, and maintain proper food hygiene.",
+    "when_to_seek_help": "If vomiting is persistent, contains blood, or is accompanied by severe abdominal pain or dehydration.",
+    "advice": "Sip fluids slowly and rest. Seek medical care if vomiting continues or worsens.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "dengue": {
+    "title": "Dengue Awareness",
+    "severity": "severe",
+    "riskScore": 8,
+    "symptomKeywords": ["dengue", "high fever", "joint pain", "muscle pain", "rash", "bone pain", "eye pain", "bleeding"],
+    "symptoms": "High fever, severe headache, joint and muscle pain, skin rash, fatigue.",
+    "prevention": "Eliminate stagnant water, use mosquito repellents, and wear protective clothing to avoid mosquito bites.",
+    "when_to_seek_help": "If there is severe abdominal pain, bleeding, persistent vomiting, or difficulty breathing.",
+    "advice": "Rest, stay hydrated, and monitor symptoms closely. Seek prompt medical attention for proper evaluation.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "malaria": {
+    "title": "Malaria Awareness",
+    "severity": "severe",
+    "riskScore": 9,
+    "symptomKeywords": ["malaria", "chills", "sweating", "cyclic fever", "body pain", "shivering", "rigor"],
+    "symptoms": "Fever with chills, sweating, headache, fatigue, and muscle pain occurring in cycles.",
+    "prevention": "Use mosquito nets and repellents, eliminate breeding sites, and avoid outdoor exposure during peak mosquito hours.",
+    "when_to_seek_help": "If fever is recurring, high, or accompanied by confusion, severe weakness, or difficulty breathing.",
+    "advice": "Seek timely medical evaluation for fever with chills, especially in malaria-prone areas.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "covid": {
+    "title": "COVID-19 Awareness",
+    "severity": "severe",
+    "riskScore": 8,
+    "symptomKeywords": ["covid", "coronavirus", "loss of taste", "loss of smell", "breathlessness", "oxygen", "isolation"],
+    "symptoms": "Fever, cough, fatigue, loss of taste or smell, breathlessness in some cases.",
+    "prevention": "Maintain hand hygiene, wear masks in crowded places, ensure proper ventilation, and follow vaccination guidelines.",
+    "when_to_seek_help": "If breathing difficulty, chest pain, low oxygen levels, or confusion occurs.",
+    "advice": "Isolate if symptomatic, monitor oxygen levels, and stay hydrated. Seek immediate care for severe symptoms.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "diabetes": {
+    "title": "Diabetes Awareness",
+    "severity": "moderate",
+    "riskScore": 6,
+    "symptomKeywords": ["diabetes", "frequent urination", "excessive thirst", "blurred vision", "slow healing", "blood sugar"],
+    "symptoms": "Increased thirst, frequent urination, fatigue, blurred vision, slow healing of wounds.",
+    "prevention": "Maintain a balanced diet, exercise regularly, manage body weight, and monitor blood sugar levels periodically.",
+    "when_to_seek_help": "If experiencing extreme thirst, rapid weight loss, confusion, or very high or low blood sugar symptoms.",
+    "advice": "Follow a healthy lifestyle and have regular checkups. Consult a doctor for personalized management.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "bp": {
+    "title": "High Blood Pressure Awareness",
+    "severity": "moderate",
+    "riskScore": 6,
+    "symptomKeywords": ["bp", "blood pressure", "hypertension", "dizziness", "headache", "palpitations"],
+    "symptoms": "Often no symptoms; some may experience headache, dizziness, or fatigue.",
+    "prevention": "Reduce salt intake, exercise regularly, manage stress, avoid tobacco, and monitor blood pressure periodically.",
+    "when_to_seek_help": "If experiencing severe headache, chest pain, vision changes, or very high readings.",
+    "advice": "Maintain a healthy lifestyle and monitor blood pressure regularly. Consult a doctor for proper evaluation.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "anemia": {
+    "title": "Anemia Awareness",
+    "severity": "moderate",
+    "riskScore": 5,
+    "symptomKeywords": ["anemia", "pale skin", "fatigue", "weakness", "shortness of breath", "dizziness", "iron deficiency"],
+    "symptoms": "Fatigue, weakness, pale skin, dizziness, shortness of breath.",
+    "prevention": "Eat iron-rich foods, maintain a balanced diet, and have regular health checkups, especially for at-risk groups.",
+    "when_to_seek_help": "If experiencing severe fatigue, rapid heartbeat, or breathlessness during normal activity.",
+    "advice": "Maintain proper nutrition and consult a healthcare provider for evaluation and guidance.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "asthma": {
+    "title": "Asthma Awareness",
+    "severity": "severe",
+    "riskScore": 7,
+    "symptomKeywords": ["asthma", "wheezing", "shortness of breath", "chest tightness", "breathlessness", "inhaler"],
+    "symptoms": "Wheezing, shortness of breath, chest tightness, persistent cough.",
+    "prevention": "Avoid known triggers such as dust, smoke, and allergens, and maintain a clean living environment.",
+    "when_to_seek_help": "If breathing difficulty is severe, lips or face turn bluish, or symptoms do not improve with usual measures.",
+    "advice": "Identify and avoid triggers, and follow up regularly with a healthcare professional for management.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "skin allergy": {
+    "title": "Skin Allergy Awareness",
+    "severity": "mild",
+    "riskScore": 3,
+    "symptomKeywords": ["skin allergy", "rash", "itching", "redness", "hives", "swelling", "irritation"],
+    "symptoms": "Redness, itching, rashes, swelling, or irritation on the skin.",
+    "prevention": "Avoid known allergens, maintain skin hygiene, and use mild, non-irritating skincare products.",
+    "when_to_seek_help": "If swelling spreads rapidly, breathing becomes difficult, or symptoms worsen significantly.",
+    "advice": "Avoid scratching the affected area and identify possible triggers. Consult a doctor if symptoms persist.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "heatstroke": {
+    "title": "Heatstroke Awareness",
+    "severity": "severe",
+    "riskScore": 9,
+    "symptomKeywords": ["heatstroke", "heat stroke", "sun exposure", "confusion", "hot skin", "rapid pulse", "fainting"],
+    "symptoms": "High body temperature, confusion, rapid pulse, dry skin, dizziness, or fainting.",
+    "prevention": "Avoid prolonged sun exposure, stay hydrated, wear light clothing, and avoid outdoor activity during peak heat hours.",
+    "when_to_seek_help": "If confusion, fainting, or very high body temperature occurs, as this can be a medical emergency.",
+    "advice": "Move to a cool place, hydrate, and seek emergency medical care immediately if symptoms are severe.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  },
+  "flu": {
+    "title": "Seasonal Flu Awareness",
+    "severity": "moderate",
+    "riskScore": 5,
+    "symptomKeywords": ["flu", "influenza", "body ache", "fatigue", "fever", "runny nose", "sore throat", "chills"],
+    "symptoms": "Fever, body ache, fatigue, cough, sore throat, and runny nose.",
+    "prevention": "Practice good hand hygiene, avoid close contact with infected individuals, and consider seasonal vaccination.",
+    "when_to_seek_help": "If symptoms are severe, persist beyond a week, or breathing difficulty develops.",
+    "advice": "Rest, stay hydrated, and allow the body to recover. Consult a doctor if symptoms worsen.",
+    "disclaimer": "This information is for awareness purposes only and does not replace professional medical advice."
+  }
+}
